@@ -4,7 +4,7 @@ import speech_recognition as sr
 import time
 
 #API KEY
-openai.api_key = "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"
+openai.api_key = "COPY PASTE YOUR API KEY HERE"
 
 #GLOBAL VARIABLES
 opening = True
